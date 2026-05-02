@@ -64,3 +64,8 @@ Explores Python string methods using a sample string.
 Opens a text file and counts the number of lines in it.
 - **Concepts used:** open(), for loop, count, encoding
 - **Written:** April 2026
+
+## Average Calculator
+A program that takes numbers as input and calculates their average. Handles empty input and decimal numbers.
+- `while` loop, lists, `float()`, `sum()`, `len()`
+- [View file](average_calc.py)
