@@ -11,4 +11,5 @@ while True:
     if largest is None or num > largest:
         largest = num
     count = count + 1
-print(" Largest number", largest)
+print(" Largest number: ", largest)
+print('Total numbers: ', count)
